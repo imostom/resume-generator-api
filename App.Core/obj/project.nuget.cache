@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PpfhQCo+u7fqktoAp2kjcKGdrjXnZg4t/HM41ktwZeDHwtkLcAadM+qNGvfld/cjLWizMYtZxCX01lv1jdDn3g==",
+  "dgSpecHash": "6uNvNg5BxqiSjd6sg+L+lqi2JDiCbndOnbIOLYobSnvutzEr0v1lTfaUCZUdsGIdrdpCjOZT/dsIuTLNdavX9A==",
   "success": true,
-  "projectFilePath": "C:\\Github\\ResumeGenerator.Solution\\App.Core\\App.Core.csproj",
+  "projectFilePath": "C:\\Github\\resume-generator-api\\App.Core\\App.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",

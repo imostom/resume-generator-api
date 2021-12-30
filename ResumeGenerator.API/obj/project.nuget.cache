@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/jDY5JhbUgRdSH9oEhNEFu6lQpL63mNY/OYKpq4ws9xlCw5N9WgcRmKr+q+YYOJJyHmAhqDhS8ieaKAgvFxCAw==",
+  "dgSpecHash": "k1Mmqq5Rs7bzwfy9JWSZaUySXPJs88d5aGqbh9vTbfoXaKNLJKzyDTDFI6/rVYoTcfdTg+BgnB9jCj35CH6pTQ==",
   "success": true,
-  "projectFilePath": "C:\\Github\\ResumeGenerator.Solution\\ResumeGenerator.API\\ResumeGenerator.API.csproj",
+  "projectFilePath": "C:\\Github\\resume-generator-api\\ResumeGenerator.API\\ResumeGenerator.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",
